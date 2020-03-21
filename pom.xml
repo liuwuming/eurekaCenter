@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zfec</groupId>
-	<artifactId>zfec-eurekaCenter</artifactId>
+	<artifactId>eurekaCenter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>zfec-eurekaCenter</name>
-	<description>zfec-serviceCenter</description>
+	<name>eurekaCenter</name>
+	<description>eurekaCenter</description>
 
 	<properties>
 		<java.version>1.8</java.version>
